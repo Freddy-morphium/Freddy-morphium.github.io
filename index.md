@@ -3,5 +3,6 @@
 ### 2019
 | Fanfiction  | Fandom.     |   Tag       |
 | ----------- | ----------- | ----------- |
-|       |        | |
-|    |         ||
+|   Night is cold    |  Silmarillion    |Maglor&Daeron |
+| Winter fell in Winterfell   |    Silm & asoif    |Maglor&Sansa Stark|
+|A family letter|Silmarillion|Maglor&Maedhros$Elrond&Elros|
