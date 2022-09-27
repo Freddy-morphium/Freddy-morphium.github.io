@@ -1,12 +1,12 @@
 # My journey to Middle Earth and Westros
 ## Here is a list of my fanfictions written in 2019-2022. 
 ### 2019
-| Fanfiction  | Fandom.     |   Tag       |
-| ----------- | ----------- | ----------- |
-|   Night is cold    |  Silmarillion    |Maglor & Daeron |
-| Winter fell in Winterfell   |    Silm & asoif    |Maglor & Sansa Stark|
-|A family letter|Silmarillion|Maglor & Maedhros & Elrond & Elros|
-| Kinslayer or kingslayer |    Silm & asoif    |Maedhros & Jamie Lannister|
+ Fanfiction  | Fandom.     |   Tag       
+ ----------- | ----------- | ----------- 
+   Night is cold    |  Silmarillion    |Maglor & Daeron 
+ Winter fell in Winterfell   |    Silm & asoif    |Maglor & Sansa Stark
+A family letter|Silmarillion|Maglor & Maedhros & Elrond & Elros
+Kinslayer or kingslayer |    Silm & asoif    |Maedhros & Jamie Lannister
 ### 2020
 | Fanfiction  | Fandom.     |   Tag       |
 | ----------- | ----------- | ----------- |
